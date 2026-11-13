@@ -1,0 +1,9 @@
+split,model,R2,RMSE,MAE
+Random,Mean baseline,-0.0,2.174,1.732
+Random,Random Forest,0.716,1.159,0.875
+Random,XGBoost,0.757,1.073,0.812
+Random,SVR (RBF),0.785,1.009,0.729
+Scaffold,Mean baseline,-0.212,2.242,1.685
+Scaffold,Random Forest,0.315,1.685,1.293
+Scaffold,XGBoost,0.402,1.575,1.219
+Scaffold,SVR (RBF),0.467,1.487,1.144
